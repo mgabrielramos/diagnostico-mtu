@@ -1,0 +1,10 @@
+# Diagnóstico de Rede - Requisitos
+# ==================================
+# Este projeto utiliza APENAS a biblioteca padrão do Python.
+# Nenhuma dependência externa é necessária.
+#
+# Para instalar dependências futuras (se necessário):
+# pip install -r requirements.txt
+
+# Sem dependências externas requeridas
+# Este projeto é 100% biblioteca padrão do Python 3.7+
